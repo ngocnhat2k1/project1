@@ -1,0 +1,17 @@
+.tnn-btn{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 12px;
+    text-align: center;
+    border: 1px solid #565e78;
+    color: #fff;
+    height: 50px;
+    min-width: 170px;
+    border-radius: 30px;
+    background-color: #1b1e30;
+    font-weight: 700;
+}
+.tnn-btn-white{
+    color: #272931;
+    background-color: #ffffff;
+
+}

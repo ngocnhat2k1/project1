@@ -1,0 +1,17 @@
+.demo-description{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 12px;
+    font-weight: 700;
+}
+.demo-gutter{
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.demo{
+
+}
+.demo img{
+    color: #58257b;
+  text-shadow: 2px 2px;
+}

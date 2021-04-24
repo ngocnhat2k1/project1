@@ -1,0 +1,14 @@
+.menu ul{
+    background-color: #f8f8f8;
+    text-align: center;
+    padding-top: 30px;
+}
+.menu li{
+    color: black;
+    display: inline-block;
+    width: 80px;
+    height: 50px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+}

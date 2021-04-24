@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 1200;
+    padding: auto 15px;
+    margin: 0 auto;
+}
+.padding-y-100 {
+    padding-top: 100px;
+    padding-bottom: 100px;
+  }
