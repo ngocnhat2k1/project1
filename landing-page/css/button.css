@@ -9,9 +9,19 @@
     border-radius: 30px;
     background-color: #1b1e30;
     font-weight: 700;
+    transition: all 0.3s;
 }
 .tnn-btn-white{
     color: #272931;
     background-color: #ffffff;
+    transition: all 0.3s;
 
+}
+.tnn-btn:hover{
+    background-color: #ffffff;
+    color:#1b1e30;
+}
+.tnn-btn-white:hover{
+    background-color: #1b1e30;
+    color:#ffffff;
 }

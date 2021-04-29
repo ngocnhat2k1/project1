@@ -6,9 +6,24 @@
 .menu li{
     color: black;
     display: inline-block;
-    width: 80px;
     height: 50px;
     font-family: 'Montserrat', sans-serif;
     font-size: 14px;
     font-weight: 700;
+}
+.menu ul li a{
+    color: black;   
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    text-decoration: none;
+    transition: text-decoration 0.2s;
+}
+.menu-item{
+    list-style: none;
+    padding: 16px;
+    display: inline-block;
+}
+.menu ul li a:hover{
+    text-decoration: underline;
 }

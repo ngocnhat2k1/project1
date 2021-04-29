@@ -24,6 +24,7 @@
 }
 .line{
     border: 1px solid #272931;
+    background-color: #272931;
     width: 70px;
     position: absolute;
     top: 120px;

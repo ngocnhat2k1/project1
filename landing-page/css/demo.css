@@ -9,9 +9,13 @@
     padding-right: 15px;
 }
 .demo{
+    margin-top: 40px;
 
 }
 .demo img{
     color: #58257b;
   text-shadow: 2px 2px;
+}
+.demo-block-item{
+    box-shadow: 0 0 20px 11px #e5e7ed;
 }
