@@ -4,13 +4,12 @@
     font-size: 12px;
     font-weight: 700;
 }
+.demo-block-list{
+    padding: 30px 30px 0 30px;
+}
 .demo-gutter{
     padding-left: 15px;
     padding-right: 15px;
-}
-.demo{
-    margin-top: 40px;
-
 }
 .demo img{
     color: #58257b;

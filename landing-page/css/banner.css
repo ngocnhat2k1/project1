@@ -1,0 +1,20 @@
+.banner{
+    position: relative;
+}
+.base{
+    background-color: #141724;
+    height: 615px;
+    width: 100vw;
+    font-family: 'Cookie', cursive;
+    font-size: 445px;
+    color: #1d1e2b;
+   
+}
+.creative{
+    font-family: 'Cookie', cursive;
+    font-size: 445px;
+    color: #1d1e2b;
+    padding-left: 4.1%;
+    vertical-align: middle;
+    position: relative;
+}

@@ -4,8 +4,8 @@
     box-sizing: border-box;
 }
 .container{
-    max-width: 1200;
-    padding: auto 15px;
+    max-width: 1200px;
+    padding: 0 15px;
     margin: 0 auto;
 }
 .padding-y-100 {
